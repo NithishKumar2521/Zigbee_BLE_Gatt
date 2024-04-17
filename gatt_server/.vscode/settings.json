@@ -1,0 +1,10 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM8",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "modbus_params.h": "c",
+    "esp_gatts_api.h": "c",
+    "esp_gap_ble_api.h": "c"
+  }
+}
